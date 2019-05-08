@@ -1,2 +1,2 @@
 # my-website-test
-Before rebase
+Changed in develop branch
