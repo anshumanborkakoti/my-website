@@ -1,3 +1,3 @@
 # my-website-test
 
-This is a new readme file in testing branch
+This is a new readme file in the remote branch
